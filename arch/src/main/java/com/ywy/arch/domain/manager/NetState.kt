@@ -1,4 +1,4 @@
-package com.jzy.ksmart.architecture.domain.manager
+package com.ywy.arch.domain.manager
 
 /**
  *  Created by ywy on 2020/11/12
