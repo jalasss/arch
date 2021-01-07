@@ -23,3 +23,8 @@ Step 2. Add the dependency
 	}
   
 That's it!
+
+
+使用了navigation,项目可自行删除
+'androidx.navigation:navigation-fragment-ktx:x.x.x'
+'androidx.navigation:navigation-ui-ktx:x.x.x'
